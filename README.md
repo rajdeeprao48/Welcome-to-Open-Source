@@ -60,13 +60,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub><b>Harsh Pandey</b></sub>
                 </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/druvkotwani">
-                    <img src="https://avatars.githubusercontent.com/u/96691139?v=4" width="100px;" alt="Dhruv Kotwani"/>
+         <td align="center">
+                <a href="https://github.com/rajdeeprao48">
+                    <img src="https://avatars.githubusercontent.com/u/177335104?s=400&u=4cc75b50e82a2f0922ba645658a68a9e0eabd2a2&v=4" width="100px;" alt="Rajdeep Rao"/>
                     <br />
-                    <sub><b>Dhruv Kotwani</b></sub>
-                </a>
+                    <sub><b>Rajdeep Rao</b></sub>
+                    </a>
             </td>
             <td align="center">
                 <a href="https://www.vivekthakur.dev/">
@@ -1714,11 +1713,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/147671694?v=4" width="100px;" alt="Kaone Keboetseng"/>
                     <br />
                     <sub><b>Kaone Keboetseng</b></sub>
-                     <td align="center">
-                <a href="https://github.com/rajdeeprao48">
-                    <img src="https://avatars.githubusercontent.com/u/177335104?s=400&u=4cc75b50e82a2f0922ba645658a68a9e0eabd2a2&v=4" width="100px;" alt="Rajdeep Rao"/>
-                    <br />
-                    <sub><b>Rajdeep Rao</b></sub>
+                     
                 </a>
             </td>
         </tr>
