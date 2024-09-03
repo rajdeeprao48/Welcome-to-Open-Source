@@ -1714,6 +1714,11 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/147671694?v=4" width="100px;" alt="Kaone Keboetseng"/>
                     <br />
                     <sub><b>Kaone Keboetseng</b></sub>
+                     <td align="center">
+                <a href="https://github.com/rajdeeprao48">
+                    <img src="https://avatars.githubusercontent.com/u/177335104?s=400&u=4cc75b50e82a2f0922ba645658a68a9e0eabd2a2&v=4" width="100px;" alt="Rajdeep Rao"/>
+                    <br />
+                    <sub><b>Rajdeep Rao</b></sub>
                 </a>
             </td>
         </tr>
